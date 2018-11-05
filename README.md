@@ -16,35 +16,37 @@
 
 ## Most Popular Stations IDs
 ### For Starting
-1. 3069 with 5138 trips starting from there
-2. 3030 with 5059 trips starting from there
-3. 3005 with 4883 trips starting from there
-4. 3064 with 4661 trips starting from there
-5. 3031 with 4629 trips starting from there
-6. 3014 with 4571 trips starting from there
-7. 3042 with 4015 trips starting from there
-8. 3082 with 3908 trips starting from there
-9. 3022 with 3893 trips starting from there
-10. 3067 with 3797 trips starting from there
+1. 3069 with 5138 trips starting from there.
+2. 3030 with 5059 trips starting from there.
+3. 3005 with 4883 trips starting from there.
+4. 3064 with 4661 trips starting from there.
+5. 3031 with 4629 trips starting from there.
+6. 3014 with 4571 trips starting from there.
+7. 3042 with 4015 trips starting from there.
+8. 3082 with 3908 trips starting from there.
+9. 3022 with 3893 trips starting from there.
+10. 3067 with 3797 trips starting from there.
 ### For Ending
-1. 3005 with 6262 trips ending there
-2. 3031 with 5517 trips ending there
-3. 3014 with 5385 trips ending there
-4. 3042 with 5293 trips ending there
-5. 3069 with 5072 trips ending there
-6. 3082 with 4703 trips ending there
-7. 3064 with 4605 trips ending there
-8. 3022 with 4337 trips ending there
-9. 3030 with 4224 trips ending there
-10. 3063 with 3763 trips ending there
+1. 3005 with 6262 trips ending there.
+2. 3031 with 5517 trips ending there.
+3. 3014 with 5385 trips ending there.
+4. 3042 with 5293 trips ending there.
+5. 3069 with 5072 trips ending there.
+6. 3082 with 4703 trips ending there.
+7. 3064 with 4605 trips ending there.
+8. 3022 with 4337 trips ending there.
+9. 3030 with 4224 trips ending there.
+10. 3063 with 3763 trips ending there.
 
 ## Average Trip Distance
 #### 1.737 kilometers
 
 ## Number of Riders that Include Bike Sharing as a Regular Part of Their Commute
 #### 90821 riders
-##### *Calculated based on the number of riders who used the service with a monthly or flex pass*
+##### *Calculated based on the number of riders who used the service with a monthly or flex pass.*
 
-
+## Change in Ridership with Seasons
+### Change in Average Trip Duration
+#####
 
 
