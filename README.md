@@ -111,7 +111,8 @@
 - 78.27% embark on Round Trips.
 - 21.73% embark on One Way Trips.
 
-
+### Possible Change
+##### The biggest change in the trend is clearly noticeable when comparing monthly and flex passholders to walk-ups. A much larger percentage of the walk-ups take the bikes on one way trips than holders of the other two public pass options. This causes issues for the bike sharing company because they lose out on revenue due to trips being half as long, and it also makes it more difficult to ensure bikes are in the proper locations. One possible change to fix this issue would be to raise the up front cost of taking out a bicycle and lower the hourly rate. This would encourage more people to choose the round trip option in order to get as much out of their money as possible.
 
 
 
