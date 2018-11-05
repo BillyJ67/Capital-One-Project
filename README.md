@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Capital-One-Project
 
 You can use the [editor on GitHub](https://github.com/BillyJ67/Capital-One-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
