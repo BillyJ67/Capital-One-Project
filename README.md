@@ -67,38 +67,49 @@
 ![Image](02:00 Stations.png)
 ![Image](03:00 Stations.png)
 ![Image](04:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](05:00 Stations.png)
 ![Image](06:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](07:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](08:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](09:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](10:00 Stations.png)
 ![Image](11:00 Stations.png)
 ![Image](12:00 Stations.png)
 ![Image](13:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](14:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](15:00 Stations.png)
 ![Image](16:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](17:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](18:00 Stations.png)
 ![Image](19:00 Stations.png)
-###### Significantly more bikes at the top station, ensure bikes are there.
+###### ^^^ Significantly more bikes at the top station, ensure bikes are there.
 ![Image](20:00 Stations.png)
 ![Image](21:00 Stations.png)
 ![Image](22:00 Stations.png)
 ![Image](23:00 Stations.png)
 
-
-
+## Breakdown of Trip Route Category-Passholder Type Combinations
+### Monthly Passholders
+- 95.36% embark on Round Trips.
+- 4.64% embark on One Way Trips.
+### Flex Passholders
+- 94.92% embark on Round Trips.
+- 5.08% embark on One Way Trips.
+### Walk-ups
+- 79.51% embark on Round Trips.
+- 20.49% embark on One Way Trips.
+### Staff
+- 78.27% embark on Round Trips.
+- 21.73% embark on One Way Trips.
 
 
 
