@@ -60,30 +60,53 @@
 ### Average Number of Riders
 ![Image](Daily_Riders.png)
 ##### As would be expected, the quantity of bike sharers is at a minimum around 3-5 am and it generally increases throughout the day. That being said, there are clear spikes in ridership at 8 am, 12 pm, and 5 pm. The spikes can be easily explained by thinking about an average worker/student's day. They must commute to work or school around 8 am, go somewhere to get lunch around 12 or 1 pm, and then commute home around 5 pm. These are the times when the bike sharing companies must ensure a sufficient number of bikes be present at the most popular spots.
-#### Shown below are the IDs of the most commonly used bike stations over each hour of the day.
+#### *Shown below are the IDs of the most commonly used bike stations over each hour of the day.*
 ![Image](00:00 Stations.png)
+<br/>
 ![Image](01:00 Stations.png)
+<br/>
 ![Image](02:00 Stations.png)
+<br/>
 ![Image](03:00 Stations.png)
+<br/>
 ![Image](04:00 Stations.png)
+<br/>
 ![Image](05:00 Stations.png)
+<br/>
 ![Image](06:00 Stations.png)
+<br/>
 ![Image](07:00 Stations.png)
+<br/>
 ![Image](08:00 Stations.png)
+<br/>
 ![Image](09:00 Stations.png)
+<br/>
 ![Image](10:00 Stations.png)
+<br/>
 ![Image](11:00 Stations.png)
+<br/>
 ![Image](12:00 Stations.png)
+<br/>
 ![Image](13:00 Stations.png)
+<br/>
 ![Image](14:00 Stations.png)
+<br/>
 ![Image](15:00 Stations.png)
+<br/>
 ![Image](16:00 Stations.png)
+<br/>
 ![Image](17:00 Stations.png)
+<br/>
 ![Image](18:00 Stations.png)
+<br/>
 ![Image](19:00 Stations.png)
+<br/>
 ![Image](20:00 Stations.png)
+<br/>
 ![Image](21:00 Stations.png)
+<br/>
 ![Image](22:00 Stations.png)
+<br/>
 ![Image](23:00 Stations.png)
 
 
